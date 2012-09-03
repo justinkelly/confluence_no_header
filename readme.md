@@ -1,6 +1,6 @@
 ### Confluence : Remove header
 
-THis extension removes the large haeder from thr Swinburne.edu.au wiki header
+This extension removes the large haeder from thr Swinburne.edu.au wiki header
 
 ### Install
 
