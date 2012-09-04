@@ -1,6 +1,6 @@
 ### Confluence : Remove header
 
-This extension removes the large header from the Swinburne wiki
+This Google Chrome extension removes the large header from the Swinburne wiki
 
 ### Install
 
